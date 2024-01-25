@@ -35,4 +35,5 @@ Blog post page:
 ![blogspage](https://github.com/DeveloperAmrit981/NextJS14Project/assets/147136907/8e538e71-05fd-4de3-b18a-a9fadf8d5a76)
 
 Single Blog Post page:
+
 <img width="684" alt="singleblogpage" src="https://github.com/DeveloperAmrit981/NextJS14Project/assets/147136907/81ef6625-e546-42a7-93fd-0fdfab884394">
